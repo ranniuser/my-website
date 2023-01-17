@@ -3,6 +3,5 @@ This is realy awesome websiteediting on example branch
 updates made on main on github before rebase2
 
 ## Repository Purpose
+This is just a readme file
 
-This will be a change that conflicts with whatever is on remote site
-This was edited locally.
