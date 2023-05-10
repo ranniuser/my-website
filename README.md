@@ -8,3 +8,4 @@ This is just a readme file
 ##Purpose
 purpose is to show how to usw git and github
 
+# Conclusion
