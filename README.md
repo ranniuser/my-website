@@ -8,3 +8,6 @@ This is just a readme file
 ##Purpose
 purpose is to show how to usw git and github
 
+## Main Idea 
+Main idea of project added by exploreGi user
+
