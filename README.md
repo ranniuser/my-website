@@ -10,4 +10,5 @@ purpose is to show how to usw git and github
 
 ## Main Idea 
 Main idea of project added by exploreGi user
+## some more details from testing-demo branch
 
